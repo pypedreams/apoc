@@ -1,2 +1,2 @@
 # apoc
-ASCII-style ROgulike written in Python3
+ASCII-style Roguelike written in Python3
