@@ -48,6 +48,7 @@ def get_constants():
     max_items_per_room = 2
 
     colors = {
+        'player': libtcod.white,
         'dark_wall': libtcod.Color(0, 0, 100),
         'dark_ground': libtcod.Color(50, 50, 150),
         'light_wall': libtcod.Color(130, 110, 50),
